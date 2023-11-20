@@ -1,0 +1,1 @@
+// Here is a document for - null, undefined and NaN https://www.scaler.com/topics/javascript/null-and-undefined-in-javascript/
